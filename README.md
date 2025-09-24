@@ -6,8 +6,6 @@
 
 E-commerce Backend (FastAPI + MySQL)
 
-Here is an improved and fixed version of your GitHub README. This version is more professional, better organized, and provides a clearer guide for users.
-
 -----
 
 # E-commerce Backend API
